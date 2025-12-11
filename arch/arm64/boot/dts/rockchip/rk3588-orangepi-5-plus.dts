@@ -18,7 +18,7 @@
 #include "rk3588-rk806-single.dtsi"
 #include "rk3588-linux.dtsi"
 #include "rk3588-orangepi-5-plus-camera1.dtsi"
-#include "rk3588-orangepi-5-plus-lcd.dtsi"
+
 
 / {
 	model = "Orange Pi 5 Plus";
